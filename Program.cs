@@ -92,3 +92,4 @@ namespace ChimiMiBarriga
         }
     }
 }
+Console.ReadLine();
