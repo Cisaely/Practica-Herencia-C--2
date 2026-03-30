@@ -1,0 +1,5 @@
+run = "dotnet run"
+entrypoint = "Program.cs"
+
+[nix]
+channel = "stable-23_11"
